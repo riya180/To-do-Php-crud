@@ -1,0 +1,55 @@
+*
+{
+	padding: 0;
+	margin: 10;
+	box-sizing: border-box;
+}
+body{
+	background: skyblue;
+	padding: 0 10px;
+
+
+}
+.container
+{
+	max-width: 500px;
+	width: 100%;
+	background: white;
+	margin: 20px auto;
+	padding: 20px;
+	box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.container .title
+{
+	font-size: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	color: skyblue;
+	margin: 10px;
+	font-weight:0;
+
+}
+.container .form{
+	width: 100%;
+}
+.container .form .input-field
+{
+	margin: 20px;
+	display: flex;
+	align-items: center;
+
+}
+.container .form .input-field label
+{
+	width: 200px;
+	margin-right: 10px;
+
+
+}
+.container .form .input-field .input
+{
+	width: 100%;
+	outline: none;
+
+}
