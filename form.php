@@ -9,7 +9,7 @@
 <body>
 	
 	<div class="container">
-		<div class="title"> Login Form</div>
+		<div class="title"> Registration Form</div>
 
 		<div class="form">
 			<div class="input-field">
@@ -53,7 +53,7 @@
 				<label class="check">
 					<input type="checkbox">
 					<span class="checkmark">
-						<p>Agree terms and conditions</p>
+						<p> Are you Agree terms and conditions ??</p>
 					</span>
 				</label>
 			</div>
